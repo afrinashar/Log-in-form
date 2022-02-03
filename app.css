@@ -1,0 +1,11 @@
+.in{
+    background-color: rgb(214, 214, 214);
+  display :flex;
+  height: 578px;
+  padding: 100px;
+  justify-content: space-evenly;
+  
+}
+#app{
+    background-color: rgb(0, 0, 0);
+}
